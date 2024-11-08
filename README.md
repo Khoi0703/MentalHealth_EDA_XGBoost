@@ -1,1 +1,1 @@
-# EDA_LightGBM_Depression
+# MentalHealth_EDA_XGBoost
